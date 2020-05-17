@@ -1,0 +1,15 @@
+[
+ {
+  "username": "rapiddive",
+  "name": "RapidDive",
+  "userimg": "https://avatars1.githubusercontent.com/u/14241419?v=4",
+  "sort": "star",
+  "order": "desc",
+  "includeFork": true,
+  "theme": "dark.css",
+  "types": [
+   "all"
+  ],
+  "twitter": "rapiddive"
+ }
+]
